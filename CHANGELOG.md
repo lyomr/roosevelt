@@ -7,6 +7,7 @@
 - Added environment variable to enable/disable the HTML validator autokiller.
 - Various dependencies bumped.
 - Added autokiller environment variable to enable/disable the HTML validator autokiller.
+- Added OpenJDK support to the Java HTML Validator.
 
 ## 0.12.2
 
