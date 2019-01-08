@@ -6,6 +6,7 @@
 - Added new feature to create custom CSS/JS preprocessors on the fly.
 - Added environment variable to enable/disable the HTML validator autokiller.
 - Various dependencies bumped.
+- Added autokiller environment variable to enable/disable the HTML validator autokiller.
 
 ## 0.12.2
 
